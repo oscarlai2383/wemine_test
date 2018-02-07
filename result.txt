@@ -1,0 +1,2 @@
+--- part a --- 09:58:15 GMT+0800 (中國標準時間) { errcode: -2, errmsg: 'Missing code' }
+--- part b --- 09:58:17 GMT+0800 (中國標準時間) { errcode: -4, errmsg: 'Missing email.' }
